@@ -1,0 +1,1 @@
+add_executable(gen_binary_tree main.cpp)
