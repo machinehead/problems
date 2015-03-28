@@ -1,1 +1,2 @@
 add_subdirectory(gen_binary_tree)
+add_subdirectory(gen_integer_list)

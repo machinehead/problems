@@ -1,0 +1,1 @@
+add_executable(gen_integer_list main.cpp)
